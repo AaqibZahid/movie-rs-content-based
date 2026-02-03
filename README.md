@@ -6,6 +6,8 @@
 * The app suggests similar movies
 * Recommendations are based on cosine similarity
 
+![Movie Recommender Screenshot](assets/screenshot.png)
+
 ---
 
 ## 🛠️ Built with
