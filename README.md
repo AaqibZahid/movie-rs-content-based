@@ -37,7 +37,7 @@ pip install -r requirements.txt
 3. **Download `similarity.pkl`**
 
 * Get it from the latest GitHub release:
-  [Download similarity.pkl](https://github.com/AaqibZahid/movie-rs-content-based/releases/latest)
+  [Download similarity.pkl](https://github.com/AaqibZahid/movie-rs-content-based/releases/download/v1.0/similarity.pkl)
 * Place it inside the project folder:
 
 ```
